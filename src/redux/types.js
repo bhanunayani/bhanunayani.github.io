@@ -1,0 +1,1 @@
+export const message_added = 'message_added'
